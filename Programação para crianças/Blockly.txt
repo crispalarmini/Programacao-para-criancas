@@ -1,0 +1,5 @@
+Blockly Games é uma plataforma com jogos educativos para ensinar crianças a programar. 
+É ideal para iniciantes.
+Tem como vantagens uma interface amigável, código aberto e jogos autodidáticos.
+
+https://blockly.games/

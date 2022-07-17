@@ -1,0 +1,5 @@
+Alice é uma plataforma em blocos para crianças que incentiva a criação de animações, de narrativas interativas, programação de jogos simples em 3D. 
+Alice explora e incentiva a criatividade.
+Tem como vantagens, recursos simples de arrastar e soltar, é gratuito e cria habilidades de pensamento lógico e computacional.
+
+https://www.alice.org/

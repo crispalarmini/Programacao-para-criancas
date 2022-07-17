@@ -1,0 +1,9 @@
+O Scratch foi criado pelo grupo Lifelong Kindergarten da universidade americana MIT.
+Foi desenvolvido para ensinar linguagens de programação para crianças, criando histórias, jogos e animações.
+Permite compartilhamento de projetos com outros usuários da comunidade.
+
+Tem interface simples, foca em programação em blocos para transmitir uma mensagem abstrata em algo sólido.
+
+Suas vantagens são: é gratuito, tem em português (PT), incentiva a criatividade, o raciocínio e o trabalho colaborativo.
+
+https://scratch.mit.edu/
