@@ -1,3 +1,2 @@
 # Programacao-para-criancas
-Linguagem de programação para crianças
-## Links úteis
+Algumas plataformas para o ensino de programação para crianças
